@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "name": "04-backend-i",
+  "version": "1.0.0",
+  "description": "Primer proyecto curso backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomezrod/backend1.git"
+  },
+  "author": "Rodrigo Gómez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gomezrod/backend1/issues"
+  },
+  "homepage": "https://github.com/gomezrod/backend1#readme"
+}
