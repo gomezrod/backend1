@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Pro 15\"",
+    "description": "Potente laptop para profesionales creativos. Intel i7, 32GB RAM, 1TB SSD.",
+    "code": "ELEC001",
+    "price": 1899.99,
+    "status": true,
+    "stock": 15,
+    "category": "Electrónica",
+    "thumbnails": [
+      "/images/products/laptop_pro_1.jpg",
+      "/images/products/laptop_pro_2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Smartwatch Z5",
+    "description": "Monitor de ritmo cardíaco, GPS integrado y resistente al agua 5ATM.",
+    "code": "ELEC004",
+    "price": 2.49,
+    "status": true,
+    "stock": 30,
+    "category": "Electrónica",
+    "thumbnails": [
+      "/images/products/watch_z5_1.jpg"
+    ]
+  }
+]

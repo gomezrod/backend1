@@ -1,0 +1,248 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop Pro 15\"",
+        "description": "Potente laptop para profesionales creativos. Intel i7, 32GB RAM, 1TB SSD.",
+        "code": "ELEC001",
+        "price": 1899.99,
+        "status": true,
+        "stock": 15,
+        "category": "Electrónica",
+        "thumbnails": [
+            "/images/products/laptop_pro_1.jpg",
+            "/images/products/laptop_pro_2.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Smartphone X100",
+        "description": "El último modelo con cámara de 108MP y pantalla OLED de 120Hz.",
+        "code": "ELEC002",
+        "price": 799.50,
+        "status": true,
+        "stock": 40,
+        "category": "Electrónica",
+        "thumbnails": [
+            "/images/products/phone_x100.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Auriculares Bluetooth Pro",
+        "description": "Cancelación de ruido activa (ANC) y 20 horas de batería.",
+        "code": "ELEC003",
+        "price": 199.90,
+        "status": true,
+        "stock": 60,
+        "category": "Electrónica",
+        "thumbnails": []
+    },
+    {
+        "id": 4,
+        "title": "Smartwatch Z5",
+        "description": "Monitor de ritmo cardíaco, GPS integrado y resistente al agua 5ATM.",
+        "code": "ELEC004",
+        "price": 249.00,
+        "status": true,
+        "stock": 30,
+        "category": "Electrónica",
+        "thumbnails": [
+            "/images/products/watch_z5_1.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Teclado Mecánico RGB",
+        "description": "Teclado completo con switches Cherry MX Red y RGB personalizable.",
+        "code": "ELEC005",
+        "price": 120.00,
+        "status": true,
+        "stock": 25,
+        "category": "Electrónica",
+        "thumbnails": []
+    },
+    {
+        "id": 6,
+        "title": "Camiseta de Algodón Básica",
+        "description": "Camiseta 100% algodón peinado, suave al tacto. Color negro.",
+        "code": "ROPA001",
+        "price": 25.00,
+        "status": true,
+        "stock": 150,
+        "category": "Ropa",
+        "thumbnails": [
+            "/images/products/camiseta_negra.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Pantalón Jean Slim Fit",
+        "description": "Jean elastizado de corte slim fit, color azul oscuro.",
+        "code": "ROPA002",
+        "price": 59.99,
+        "status": true,
+        "stock": 80,
+        "category": "Ropa",
+        "thumbnails": []
+    },
+    {
+        "id": 8,
+        "title": "Zapatillas Deportivas",
+        "description": "Calzado de running con amortiguación de gel y malla transpirable.",
+        "code": "ROPA003",
+        "price": 89.90,
+        "status": true,
+        "stock": 50,
+        "category": "Ropa",
+        "thumbnails": [
+            "/images/products/zapatillas_run.jpg",
+            "/images/products/zapatillas_run_lado.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Chaqueta Impermeable",
+        "description": "Chaqueta técnica resistente al agua y al viento, con capucha.",
+        "code": "ROPA004",
+        "price": 110.00,
+        "status": true,
+        "stock": 30,
+        "category": "Ropa",
+        "thumbnails": []
+    },
+    {
+        "id": 10,
+        "title": "Gorra de Béisbol Logo",
+        "description": "Gorra clásica de 6 paneles con logo frontal bordado. Ajustable.",
+        "code": "ROPA005",
+        "price": 19.99,
+        "status": false,
+        "stock": 120,
+        "category": "Ropa",
+        "thumbnails": [
+            "/images/products/gorra_logo.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Cafetera de Goteo Programable",
+        "description": "Cafetera para 12 tazas, con filtro permanente y función de pausa.",
+        "code": "HOGAR001",
+        "price": 49.99,
+        "status": true,
+        "stock": 40,
+        "category": "Hogar",
+        "thumbnails": [
+            "/images/products/cafetera.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Juego de Sábanas Queen",
+        "description": "Sábanas de microfibra premium, 4 piezas, suaves y resistentes.",
+        "code": "HOGAR002",
+        "price": 75.50,
+        "status": true,
+        "stock": 20,
+        "category": "Hogar",
+        "thumbnails": []
+    },
+    {
+        "id": 13,
+        "title": "Lámpara de Escritorio LED",
+        "description": "Lámpara con brazo flexible, 3 niveles de brillo y puerto USB de carga.",
+        "code": "HOGAR003",
+        "price": 35.00,
+        "status": true,
+        "stock": 60,
+        "category": "Hogar",
+        "thumbnails": [
+            "/images/products/lampara_led.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Set de Cuchillos de Cocina",
+        "description": "Set de 8 piezas de acero inoxidable alemán con bloque de madera.",
+        "code": "HOGAR004",
+        "price": 99.00,
+        "status": true,
+        "stock": 15,
+        "category": "Hogar",
+        "thumbnails": [
+            "/images/products/cuchillos.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Aspiradora Robot Inteligente",
+        "description": "Mapeo inteligente del hogar, conexión WiFi y compatible con Alexa.",
+        "code": "HOGAR005",
+        "price": 299.99,
+        "status": true,
+        "stock": 10,
+        "category": "Hogar",
+        "thumbnails": []
+    },
+    {
+        "id": 16,
+        "title": "Café en Grano Colombia (1kg)",
+        "description": "Grano Arábica de origen único, tueste medio. Notas frutales.",
+        "code": "ALIM001",
+        "price": 22.50,
+        "status": true,
+        "stock": 100,
+        "category": "Alimentos",
+        "thumbnails": [
+            "/images/products/cafe_grano.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Aceite de Oliva Extra Virgen",
+        "description": "Botella de 750ml. Prensado en frío, primera extracción.",
+        "code": "ALIM002",
+        "price": 18.00,
+        "status": true,
+        "stock": 80,
+        "category": "Alimentos",
+        "thumbnails": []
+    },
+    {
+        "id": 18,
+        "title": "Chocolate Amargo 70% Cacao",
+        "description": "Tableta de 100g de chocolate orgánico de origen único.",
+        "code": "ALIM003",
+        "price": 5.99,
+        "status": true,
+        "stock": 200,
+        "category": "Alimentos",
+        "thumbnails": [
+            "/images/products/chocolate_70.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Pack de 6 Cervezas Artesanales",
+        "description": "Selección de cervezas locales, incluye IPAs y Stouts.",
+        "code": "ALIM004",
+        "price": 29.99,
+        "status": true,
+        "stock": 50,
+        "category": "Alimentos",
+        "thumbnails": []
+    },
+    {
+        "id": 20,
+        "title": "Salmón Ahumado Noruego",
+        "description": "Paquete de 200g de salmón ahumado en madera de haya.",
+        "code": "ALIM005",
+        "price": 15.00,
+        "status": true,
+        "stock": 30,
+        "category": "Alimentos",
+        "thumbnails": [
+            "/images/products/salmon_ahumado.jpg"
+        ]
+    }
+]
