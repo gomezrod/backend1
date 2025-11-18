@@ -1,5 +1,5 @@
 import { promises as fs } from 'fs';
-import path from 'path';
+import path from 'node:path';
 
 const baseDir = process.cwd();
 const dataDir = path.resolve(baseDir, 'db');
@@ -35,7 +35,7 @@ const writeData = async (filePath, data) => {
     }
 };
 
-export class CartManager {
+export default class CartManager {
     constructor() {
         this.path = cartsFilePath;
     }

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "socketId": "oVqKG4aBna4_M5auAAAD",
+    "mensaje": {
+      "nombre": "yo",
+      "mensaje": " ingresó al chat"
+    },
+    "isLog": true
+  },
+  {
+    "id": 2,
+    "socketId": "oVqKG4aBna4_M5auAAAD",
+    "mensaje": {
+      "nombre": "yo",
+      "mensaje": "jaja"
+    },
+    "isLog": false
+  },
+  {
+    "id": 3,
+    "socketId": "yAa7NaiBaDnfcNGIAAAF",
+    "mensaje": {
+      "nombre": "vos",
+      "mensaje": " ingresó al chat"
+    },
+    "isLog": true
+  },
+  {
+    "id": 4,
+    "socketId": "yAa7NaiBaDnfcNGIAAAF",
+    "mensaje": {
+      "nombre": "vos",
+      "mensaje": "como  andas"
+    },
+    "isLog": false
+  },
+  {
+    "id": 5,
+    "socketId": "qbotlsHJpAFkZWf2AAAH",
+    "mensaje": {
+      "nombre": "ejemplo",
+      "mensaje": " ingresó al chat"
+    },
+    "isLog": true
+  },
+  {
+    "id": 6,
+    "socketId": "qbotlsHJpAFkZWf2AAAH",
+    "mensaje": {
+      "nombre": "ejemplo",
+      "mensaje": "jaja"
+    },
+    "isLog": false
+  },
+  {
+    "id": 7,
+    "socketId": "qbotlsHJpAFkZWf2AAAH",
+    "mensaje": {
+      "nombre": "ejemplo",
+      "mensaje": " abandonó al chat"
+    },
+    "isLog": true
+  },
+  {
+    "id": 8,
+    "socketId": "QKBRf0MQ3R53vH-IAAAB",
+    "mensaje": {
+      "nombre": "rodri",
+      "mensaje": " ingresó al chat"
+    },
+    "isLog": true
+  },
+  {
+    "id": 9,
+    "socketId": "QKBRf0MQ3R53vH-IAAAB",
+    "mensaje": {
+      "nombre": "rodri",
+      "mensaje": " abandonó al chat"
+    },
+    "isLog": true
+  },
+  {
+    "id": 10,
+    "socketId": "bA-w7gQOyy2nxE0oAAAD",
+    "mensaje": {
+      "nombre": "rodri",
+      "mensaje": " ingresó al chat"
+    },
+    "isLog": true
+  },
+  {
+    "id": 11,
+    "socketId": "bA-w7gQOyy2nxE0oAAAD",
+    "mensaje": {
+      "nombre": "rodri",
+      "mensaje": " abandonó al chat"
+    },
+    "isLog": true
+  },
+  {
+    "id": 12,
+    "socketId": "asA4D8o1HpwMtoM4AAAF",
+    "mensaje": {
+      "nombre": "asd",
+      "mensaje": " ingresó al chat"
+    },
+    "isLog": true
+  },
+  {
+    "id": 13,
+    "socketId": "o77azbhYwSEDTWi3AAAH",
+    "mensaje": {
+      "nombre": "maikel",
+      "mensaje": " ingresó al chat"
+    },
+    "isLog": true
+  },
+  {
+    "id": 14,
+    "socketId": "o77azbhYwSEDTWi3AAAH",
+    "mensaje": {
+      "nombre": "maikel",
+      "mensaje": "hola"
+    },
+    "isLog": false
+  }
+]

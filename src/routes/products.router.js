@@ -1,5 +1,5 @@
 import {Router} from 'express';
-import { ProductManager } from '../services/ProductManager.js';
+import ProductManager from '../services/ProductManager.js';
 
 const router = Router();
 const productManager = new ProductManager();
@@ -36,6 +36,7 @@ router.post('/', async (req, res) => {
         if(result.status === 'error'){
             res.status(400).json({ status: 'error', message: result.message });
         }else{
+            
             res.status(201).json({ status: 'success', product: result.product });
         }
     } catch (err) {
